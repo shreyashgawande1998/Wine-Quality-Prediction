@@ -15,4 +15,4 @@ I got these data from kaggle.
 >Model Training
 >Model Evaluation
 # Results
-So i got 92% accuracy score on random forest classifier which quite good,so i have successfully build the predictive system which will give you the quality of the wine.
+So i got 92% accuracy score on random forest classifier which is quite good,so i have successfully build the predictive system which will give you the quality of the wine.
