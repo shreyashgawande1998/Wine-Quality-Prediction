@@ -8,11 +8,11 @@ Machine Learning: This includes packages that were used to generate the ML model
 # Source Data
 I got these data from kaggle.
 # Work Flow
->Getting data
->Data analysis 
->Data Preprocessing
->Train-Test_Split
->Model Training
->Model Evaluation
+:-Data collection
+:-Data analysis 
+:-Data Preprocessing
+:-Train-Test_Split
+:-Model Training
+:-Model Evaluation
 # Results
 So i got 92% accuracy score on random forest classifier which is quite good,so i have successfully build the predictive system which will give you the quality of the wine.
